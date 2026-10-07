@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+joblib
+openpyxl
+lightgbm
+optuna
+fastapi
+uvicorn
+python-multipart
+pydantic>=2
+# Optional classifiers in model_4_1_1.py:
+xgboost
+catboost
